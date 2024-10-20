@@ -1,0 +1,14 @@
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/obj/Debug/net8.0/soru7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/obj/Debug/net8.0/soru7.AssemblyInfoInputs.cache
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/obj/Debug/net8.0/soru7.AssemblyInfo.cs
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/obj/Debug/net8.0/soru7.csproj.CoreCompileInputs.cache
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/bin/Debug/net8.0/soru7
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/bin/Debug/net8.0/soru7.deps.json
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/bin/Debug/net8.0/soru7.runtimeconfig.json
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/bin/Debug/net8.0/soru7.dll
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/bin/Debug/net8.0/soru7.pdb
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/obj/Debug/net8.0/soru7.dll
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/obj/Debug/net8.0/refint/soru7.dll
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/obj/Debug/net8.0/soru7.pdb
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/obj/Debug/net8.0/soru7.genruntimeconfig.cache
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/05-Switch-Homeworks/soru7/obj/Debug/net8.0/ref/soru7.dll

@@ -1,0 +1,14 @@
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/bin/Debug/net8.0/Homework18_08_2024
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/bin/Debug/net8.0/Homework18_08_2024.deps.json
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/bin/Debug/net8.0/Homework18_08_2024.runtimeconfig.json
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/bin/Debug/net8.0/Homework18_08_2024.dll
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/bin/Debug/net8.0/Homework18_08_2024.pdb
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/obj/Debug/net8.0/Homework18_08_2024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/obj/Debug/net8.0/Homework18_08_2024.AssemblyInfoInputs.cache
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/obj/Debug/net8.0/Homework18_08_2024.AssemblyInfo.cs
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/obj/Debug/net8.0/Homework18_08_2024.csproj.CoreCompileInputs.cache
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/obj/Debug/net8.0/Homework18_08_2024.dll
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/obj/Debug/net8.0/refint/Homework18_08_2024.dll
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/obj/Debug/net8.0/Homework18_08_2024.pdb
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/obj/Debug/net8.0/Homework18_08_2024.genruntimeconfig.cache
+/Users/elifnurbinici/ElifBinici/Homework18_08_2024/obj/Debug/net8.0/ref/Homework18_08_2024.dll

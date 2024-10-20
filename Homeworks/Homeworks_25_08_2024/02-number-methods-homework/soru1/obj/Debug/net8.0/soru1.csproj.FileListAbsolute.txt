@@ -1,0 +1,14 @@
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/bin/Debug/net8.0/soru1
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/bin/Debug/net8.0/soru1.deps.json
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/bin/Debug/net8.0/soru1.runtimeconfig.json
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/bin/Debug/net8.0/soru1.dll
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/bin/Debug/net8.0/soru1.pdb
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/obj/Debug/net8.0/soru1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/obj/Debug/net8.0/soru1.AssemblyInfoInputs.cache
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/obj/Debug/net8.0/soru1.AssemblyInfo.cs
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/obj/Debug/net8.0/soru1.csproj.CoreCompileInputs.cache
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/obj/Debug/net8.0/soru1.dll
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/obj/Debug/net8.0/refint/soru1.dll
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/obj/Debug/net8.0/soru1.pdb
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/obj/Debug/net8.0/soru1.genruntimeconfig.cache
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/02-number-methods-homework/soru1/obj/Debug/net8.0/ref/soru1.dll

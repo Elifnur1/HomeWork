@@ -1,0 +1,15 @@
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/bin/Debug/net8.0/OOP_Homeworks
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/bin/Debug/net8.0/OOP_Homeworks.deps.json
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/bin/Debug/net8.0/OOP_Homeworks.runtimeconfig.json
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/bin/Debug/net8.0/OOP_Homeworks.dll
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/bin/Debug/net8.0/OOP_Homeworks.pdb
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/obj/Debug/net8.0/OOP_Homeworks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/obj/Debug/net8.0/OOP_Homeworks.AssemblyInfoInputs.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/obj/Debug/net8.0/OOP_Homeworks.AssemblyInfo.cs
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/obj/Debug/net8.0/OOP_Homeworks.csproj.CoreCompileInputs.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/obj/Debug/net8.0/OOP_Homeworks.sourcelink.json
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/obj/Debug/net8.0/OOP_Homeworks.dll
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/obj/Debug/net8.0/refint/OOP_Homeworks.dll
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/obj/Debug/net8.0/OOP_Homeworks.pdb
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/obj/Debug/net8.0/OOP_Homeworks.genruntimeconfig.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/obj/Debug/net8.0/ref/OOP_Homeworks.dll

@@ -1,0 +1,15 @@
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/bin/Debug/net8.0/MetotHomeworks
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/bin/Debug/net8.0/MetotHomeworks.deps.json
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/bin/Debug/net8.0/MetotHomeworks.runtimeconfig.json
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/bin/Debug/net8.0/MetotHomeworks.dll
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/bin/Debug/net8.0/MetotHomeworks.pdb
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/obj/Debug/net8.0/MetotHomeworks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/obj/Debug/net8.0/MetotHomeworks.AssemblyInfoInputs.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/obj/Debug/net8.0/MetotHomeworks.AssemblyInfo.cs
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/obj/Debug/net8.0/MetotHomeworks.csproj.CoreCompileInputs.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/obj/Debug/net8.0/MetotHomeworks.sourcelink.json
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/obj/Debug/net8.0/MetotHomeworks.dll
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/obj/Debug/net8.0/refint/MetotHomeworks.dll
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/obj/Debug/net8.0/MetotHomeworks.pdb
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/obj/Debug/net8.0/MetotHomeworks.genruntimeconfig.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_07_09_2024/MetotHomeworks/obj/Debug/net8.0/ref/MetotHomeworks.dll

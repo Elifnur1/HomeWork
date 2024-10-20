@@ -1,0 +1,5 @@
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks_31_08_2024/for_döngüsü/soru1/obj/Debug/net8.0/soru1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks_31_08_2024/for_döngüsü/soru1/obj/Debug/net8.0/soru1.AssemblyInfoInputs.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks_31_08_2024/for_döngüsü/soru1/obj/Debug/net8.0/soru1.AssemblyInfo.cs
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks_31_08_2024/for_döngüsü/soru1/obj/Debug/net8.0/soru1.csproj.CoreCompileInputs.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks_31_08_2024/for_döngüsü/soru1/obj/Debug/net8.0/soru1.sourcelink.json

@@ -1,0 +1,15 @@
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/bin/Debug/net8.0/soru4
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/bin/Debug/net8.0/soru4.deps.json
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/bin/Debug/net8.0/soru4.runtimeconfig.json
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/bin/Debug/net8.0/soru4.dll
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/bin/Debug/net8.0/soru4.pdb
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/obj/Debug/net8.0/soru4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/obj/Debug/net8.0/soru4.AssemblyInfoInputs.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/obj/Debug/net8.0/soru4.AssemblyInfo.cs
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/obj/Debug/net8.0/soru4.csproj.CoreCompileInputs.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/obj/Debug/net8.0/soru4.sourcelink.json
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/obj/Debug/net8.0/soru4.dll
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/obj/Debug/net8.0/refint/soru4.dll
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/obj/Debug/net8.0/soru4.pdb
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/obj/Debug/net8.0/soru4.genruntimeconfig.cache
+/Users/elifnurbinici/Documents/GitHub/BackendBootcampDersler/Homeworks/Homeworks_14_09_2024/OOP_Homeworks/soru4/obj/Debug/net8.0/ref/soru4.dll

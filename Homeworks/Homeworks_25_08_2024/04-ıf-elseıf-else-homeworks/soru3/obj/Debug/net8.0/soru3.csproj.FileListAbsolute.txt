@@ -1,0 +1,4 @@
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/04-ıf-elseıf-else-homeworks/soru3/obj/Debug/net8.0/soru3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/04-ıf-elseıf-else-homeworks/soru3/obj/Debug/net8.0/soru3.AssemblyInfoInputs.cache
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/04-ıf-elseıf-else-homeworks/soru3/obj/Debug/net8.0/soru3.AssemblyInfo.cs
+/Users/elifnurbinici/Documents/Homeworks_25_08_2024/04-ıf-elseıf-else-homeworks/soru3/obj/Debug/net8.0/soru3.csproj.CoreCompileInputs.cache
